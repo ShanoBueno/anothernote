@@ -1,8 +1,24 @@
 {
-    "notes": [
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": "0",
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "id": "1",
+      "title": "2nd note",
+      "text": "another test note"
+    },
+    {
+      "title": "SEFwejf;waefj",
+      "text": "JFejfew;lfj",
+      "id": "2"
+    },
+    {
+      "title": "Another Note",
+      "text": "This is some more notes\n",
+      "id": "3"
     }
-]
+  ]
 }
